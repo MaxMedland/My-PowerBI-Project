@@ -1,6 +1,6 @@
 # 📊 Power BI Business Intelligence & Data Engineering Capabilities
 
-This repository serves as a professional showcase of my end-to-end Power BI capabilities. I specialize in transforming fragmented, raw data into high-performance semantic models and interactive executive reports that drive data-informed decision-making.
+This repository serves as a professional showcase of my end-to-end Power BI capabilities. I specialise in transforming fragmented, raw data into high-performance semantic models and interactive executive reports that drive data-informed decision-making.
 
 ---
 
@@ -14,8 +14,8 @@ This repository serves as a professional showcase of my end-to-end Power BI capa
 ### **Semantic Modeling & DAX**
 * **Relationship Management:** Building robust star-schema models with active/inactive relationships and cross-filter direction control.
 * **Advanced Analytics with DAX:** Writing complex **Data Analysis Expressions** to create dynamic business metrics:
-    * **Calculated Columns:** For static categorization and custom grouping.
-    * **Measures:** Utilizing `CALCULATE`, `FILTER`, `ALL`, and `DIVIDE` for context-aware aggregations.
+    * **Calculated Columns:** For static categorisation and custom grouping.
+    * **Measures:** Utilising `CALCULATE`, `FILTER`, `ALL`, and `DIVIDE` for context-aware aggregations.
     * **Time Intelligence:** Implementation of Year-over-Year (YoY) growth, Year-to-Date (YTD) totals, and rolling averages.
 
 ### **Interactive Visual Storytelling**
@@ -25,15 +25,15 @@ This repository serves as a professional showcase of my end-to-end Power BI capa
 
 ---
 
-## 📈 Specialized Power BI Skills
+## 📈 specialised Power BI Skills
 
 | Capability | Business Application |
 | :--- | :--- |
 | **KPI Scorecarding** | Developing "At-a-Glance" cards and indicators for immediate performance tracking. |
 | **Data Mashups** | Merging internal Excel financials with external OData API feeds for a holistic view. |
-| **Trend Forecasting** | Using line and area charts to visualize historical performance and seasonal cycles. |
+| **Trend Forecasting** | Using line and area charts to visualise historical performance and seasonal cycles. |
 | **Operational Detail** | Configuring Matrix and Table visuals for deep-dive auditing of raw transactions. |
-| **BI Distribution** | Managing report lifecycles through **Power BI Service** for organizational sharing. |
+| **BI Distribution** | Managing report lifecycles through **Power BI Service** for organisational sharing. |
 
 ---
 
